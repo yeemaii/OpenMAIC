@@ -1,6 +1,0 @@
-providers:
-  # 这里我们自定义一个名为 "openai-compatible" 的配置
-  # 你也可以直接覆盖默认的 "openai" 配置
-  openai:
-    apiKey: "sk-XBe1RWfuJ2hpeLJl4RasBwLbHDct2Id56Lia2CkAmQ6c6aJz"
-    baseUrl: "https://ai.ztough.cn/v1"
