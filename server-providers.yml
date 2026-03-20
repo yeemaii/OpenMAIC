@@ -1,0 +1,6 @@
+providers:
+  # 这里我们自定义一个名为 "openai-compatible" 的配置
+  # 你也可以直接覆盖默认的 "openai" 配置
+  openai:
+    apiKey: "这里填你的兼容服务提供的 API Key"
+    baseUrl: "这里填兼容服务的 Base URL（通常以 /v1 结尾）"
